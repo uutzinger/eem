@@ -1,4 +1,4 @@
-# Utilities to Process Fluorolog spectra into EEMs
+# Utilities to process Fluorolog spectra into EEMs
 
 The main folder contains the emission and excitation intensity correction files.
 It also contains one example matlab program to process and plot the data
